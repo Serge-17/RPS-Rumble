@@ -21,3 +21,9 @@ RockPaperScissors-Rumble — это простое и увлекательное
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Serge-17/RPS-Rumble.git
+
+
+## 👨‍💻 Автор
+
+**Serge Eliseev**
+- GitHub: [@Serge-17](https://github.com/Serge-17)
